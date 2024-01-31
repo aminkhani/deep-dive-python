@@ -6,30 +6,31 @@ Combined the PDFs and Jupyter Notebook with together.
 
 ## Content
 
-### [Part 1- Functional](./Part%201%20-%20Functional/)
+### [Part 1- Functional](./Part1-Functional/)
 
-- #### [01 - Introduction](./Part%201%20-%20Functional/01%20-%20Introduction/)
+- #### [ ] 01 - Introduction
 
-  - [README.md](./Part%201%20-%20Functional/01%20-%20Introduction/README.md)
+- #### [ ] 02 - A Quick Refresher - Basics Review
 
-- #### [02 - A Quick Refresher - Basics Review](./Part%201%20-%20Functional/02%20-%20A%20Quick%20Refresher%20-%20Basics%20Review/)
+- #### [ ] 03 - Variables and Memory
 
-- #### [03 - Variables and Memory](./Part%201%20-%20Functional/03%20-%20Variables%20and%20Memory/)
+- #### [ ] 04 - Numeric Types
 
-- #### [04 - Numeric Types](./Part%201%20-%20Functional/04%20-%20Numeric%20Types/)
+- #### [x] [05 - Function Parameters](./Part1-Functional/05-FunctionParameters/)
 
-- #### [05 - Function Parameters](./Part%201%20-%20Functional/05%20-%20Function%20Parameters/)
+  - [01-Introduction.ipynb](./Part1-Functional/05-FunctionParameters/01-Introduction.ipynb)
+  - [02-ArgumentVsParameters.ipynb](Part1-Functional/05-FunctionParameters/02-ArgumentVsParameters.ipynb)
+  - [03-Positional&KeywordArguments.ipynb](Part1-Functional/05-FunctionParameters/03-Positional&KeywordArguments.ipynb)
+  - [04-UnpackingIterables.ipynb](Part1-Functional/05-FunctionParameters/04-UnpackingIterables.ipynb)
+  - [05-ExtendedUnpacking.ipynb](Part1-Functional/05-FunctionParameters/05-ExtendedUnpacking.ipynb)
+  - [06-args&kwargs.ipynb](Part1-Functional/05-FunctionParameters/06-args&kwargs.ipynb)
+  - [07-DefaultValue.ipynb](Part1-Functional/05-FunctionParameters/07-DefaultValue.ipynb)
+- #### [ ] [06 - First-Class Functions](Part1-Functional/06-FirstClassFunctions)
 
-  - [01 - Introduction.ipynb](./Part%201%20-%20Functional/05%20-%20Function%20Parameters/01%20-%20Introduction.ipynb)
-  - [02 - Argument Vs Parameters.ipynb](./Part%201%20-%20Functional/05%20-%20Function%20Parameters/02%20-%20Argument%20Vs%20Parameters.ipynb)
-  - [03 - Positional and Keyword Arguments.ipynb](./Part%201%20-%20Functional/05%20-%20Function%20Parameters/03%20-%20Positional%20and%20Keyword%20Arguments.ipynb)
-  - [04 - Unpacking Iterables.ipynb](./Part%201%20-%20Functional/05%20-%20Function%20Parameters/04%20-%20Unpacking%20Iterables.ipynb)
-  - [05 - Extended Unpacking.ipynb](./Part%201%20-%20Functional/05%20-%20Function%20Parameters/05%20-%20Extended%20Unpacking.ipynb)
-  - img
+  - [FirstClassFunction.ipynb](Part1-Functional/06-FirstClassFunctions/FirstClassFunction.ipynb)
 
+### [ ] Part 2 - Iteration, Generators
 
-### [Part 2 - Iteration, Generators](./Part%202%20-%20Iteration,%20Generators/)
+### [ ] Part 3 - Hash Maps, JSON Serialization
 
-### [Part 3 - Hash Maps, JSON Serialization](./Part%203%20-%20Hash%20Maps,%20JSON%20Serialization/)
-
-### [Part 4 - OOP](./Part%204%20-%20OOP/)
+### [ ] Part 4 - OOP
