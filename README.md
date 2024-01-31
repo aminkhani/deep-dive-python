@@ -4,33 +4,38 @@
 
 Combined the PDFs and Jupyter Notebook with together.
 
+> [!NOTE]
+>
+> ✅ Completed | ⭕ In Future |📍 Inprogress
+
 ## Content
 
 ### [Part 1- Functional](./Part1-Functional/)
 
-- #### [ ] 01 - Introduction
+- #### ⭕ 01 - Introduction
 
-- #### [ ] 02 - A Quick Refresher - Basics Review
+- #### ⭕ 02 - A Quick Refresher - Basics Review
 
-- #### [ ] 03 - Variables and Memory
+- #### ⭕ 03 - Variables and Memory
 
-- #### [ ] 04 - Numeric Types
+- #### ⭕ 04 - Numeric Types
 
-- #### [x] [05 - Function Parameters](./Part1-Functional/05-FunctionParameters/)
+- #### ✅ [05 - Function Parameters](./Part1-Functional/05-FunctionParameters/)
 
-  - [01-Introduction.ipynb](./Part1-Functional/05-FunctionParameters/01-Introduction.ipynb)
-  - [02-ArgumentVsParameters.ipynb](Part1-Functional/05-FunctionParameters/02-ArgumentVsParameters.ipynb)
-  - [03-Positional&KeywordArguments.ipynb](Part1-Functional/05-FunctionParameters/03-Positional&KeywordArguments.ipynb)
-  - [04-UnpackingIterables.ipynb](Part1-Functional/05-FunctionParameters/04-UnpackingIterables.ipynb)
-  - [05-ExtendedUnpacking.ipynb](Part1-Functional/05-FunctionParameters/05-ExtendedUnpacking.ipynb)
-  - [06-args&kwargs.ipynb](Part1-Functional/05-FunctionParameters/06-args&kwargs.ipynb)
-  - [07-DefaultValue.ipynb](Part1-Functional/05-FunctionParameters/07-DefaultValue.ipynb)
-- #### [ ] [06 - First-Class Functions](Part1-Functional/06-FirstClassFunctions)
+  - ✅ [01-Introduction.ipynb](./Part1-Functional/05-FunctionParameters/01-Introduction.ipynb)
+  - ✅ [02-ArgumentVsParameters.ipynb](Part1-Functional/05-FunctionParameters/02-ArgumentVsParameters.ipynb)
+  - ✅ [03-Positional&KeywordArguments.ipynb](Part1-Functional/05-FunctionParameters/03-Positional&KeywordArguments.ipynb)
+  - ✅ [04-UnpackingIterables.ipynb](Part1-Functional/05-FunctionParameters/04-UnpackingIterables.ipynb)
+  - ✅ [05-ExtendedUnpacking.ipynb](Part1-Functional/05-FunctionParameters/05-ExtendedUnpacking.ipynb)
+  - ✅ [06-args&kwargs.ipynb](Part1-Functional/05-FunctionParameters/06-args&kwargs.ipynb)
+  - ✅ [07-DefaultValue.ipynb](Part1-Functional/05-FunctionParameters/07-DefaultValue.ipynb)
 
-  - [FirstClassFunction.ipynb](Part1-Functional/06-FirstClassFunctions/FirstClassFunction.ipynb)
+- #### 📍[06 - First-Class Functions](Part1-Functional/06-FirstClassFunctions)
 
-### [ ] Part 2 - Iteration, Generators
+  - 📍[FirstClassFunction.ipynb](Part1-Functional/06-FirstClassFunctions/FirstClassFunction.ipynb)
 
-### [ ] Part 3 - Hash Maps, JSON Serialization
+### ⭕ Part 2 - Iteration, Generators
 
-### [ ] Part 4 - OOP
+### ⭕ Part 3 - Hash Maps, JSON Serialization
+
+### ⭕ Part 4 - OOP
