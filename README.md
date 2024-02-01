@@ -30,9 +30,9 @@ Combined the PDFs and Jupyter Notebook with together.
   - ✅ [06-args&kwargs.ipynb](Part1-Functional/05-FunctionParameters/06-args&kwargs.ipynb)
   - ✅ [07-DefaultValue.ipynb](Part1-Functional/05-FunctionParameters/07-DefaultValue.ipynb)
 
-- #### 📍[06 - First-Class Functions](Part1-Functional/06-FirstClassFunctions)
+- #### 📍 [06 - First-Class Functions](Part1-Functional/06-FirstClassFunctions)
 
-  - 📍[FirstClassFunction.ipynb](Part1-Functional/06-FirstClassFunctions/FirstClassFunction.ipynb)
+  - 📍 [FirstClassFunction.ipynb](Part1-Functional/06-FirstClassFunctions/FirstClassFunction.ipynb)
 
 ### ⭕ Part 2 - Iteration, Generators
 
